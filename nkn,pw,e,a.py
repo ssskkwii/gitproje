@@ -1,0 +1,10 @@
+def s ():
+    a =input("your passwork enter:")
+    b =input("your nickname enter:")
+    c =int(input("your age enter:"))
+    d =input("your email enter:")
+    print("your passwork",a)
+    print("your nickname",b)
+    print("your age",c)
+    print("yoru email",d)
+s()
