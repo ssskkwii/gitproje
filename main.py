@@ -1,3 +1,4 @@
-def test ()
-    input("nickname enter")
-test()
+def nickname ()
+    b =input("nickname enter")
+    print("nickname",)
+nickname()
