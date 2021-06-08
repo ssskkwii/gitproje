@@ -6,5 +6,5 @@ def s ():
     print("your passwork",a)
     print("your nickname",b)
     print("your age",c)
-    print("yoru email",d)
+    print("your email",d)
 s()
